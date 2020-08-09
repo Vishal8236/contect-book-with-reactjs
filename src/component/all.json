@@ -1,0 +1,12 @@
+[
+    {
+        "id":1234,
+        "name":"vishal patiar",
+        "job":"fullstack_develpoer"
+    },
+    {
+        "id":4321,
+        "name":"ram patiar",
+        "job":"tester"
+    }
+]
